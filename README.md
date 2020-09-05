@@ -2,7 +2,7 @@
 
 Python implementation to convert jp2 raster images typically from Sentienl-2 satellite platform to tiff raster.
 
-[Saif Aati],(mailto:saif@caltech.edu)
+[Saif Aati](mailto:saif@caltech.edu)
     - saif@caltech.edu
     - saifaati@gmail.com
 
