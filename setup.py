@@ -11,7 +11,7 @@ setuptools.setup(
     description="convert jp2 raster to tiff raster ",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/SaifAati/JP2toTiff.git",
     package_dir = {'':'jp2tiff'},
     classifiers=[
         "Programming Language :: Python :: 3",
