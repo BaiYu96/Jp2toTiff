@@ -26,5 +26,4 @@ setuptools.setup(
     ],
     python_requires='>=3.5',
     install_requieres=["argparse","glob","os","gdal"],
-    packages = [package],
 )
