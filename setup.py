@@ -21,5 +21,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.5',
-    # install_requieres=["datetime","matplotlib","dateutil","geojson","requests"],
+    install_requieres=["argparse","glob","os","gdal"],
 )
